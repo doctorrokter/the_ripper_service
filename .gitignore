@@ -1,6 +1,8 @@
 arm
 
 x86
+.settings
+.git
 
 # Prerequisites
 *.d
